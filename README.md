@@ -1,4 +1,4 @@
 # Project_React_Devloper
 lets start from today.
-Today i ahve to do some other work ,SO idecided to work form tomorrow.
-I will try my best to learhn rewact and amake a beautiful portfolio too, 
+Today i have to do some other work, So i decided to work form tomorrow.
+I will try my best to learn react and make a beautiful portfolio too.
